@@ -10,6 +10,9 @@ Utilizando o simulador de dispositivos IoT desenvolvido na atividade passada e u
 - pip install paho-mqtt pytest
 - python3 publisher.py
 - pytest subscriber.py
+
+![Screenshot 2024-02-27 102542](https://github.com/riqueschilder/Ponderada-1-2-3/assets/99187952/24d52027-9a43-423f-bd25-02fd11b2ffb3)
+
   
 https://github.com/riqueschilder/Ponderada-1-2/assets/99187952/be36b793-acba-4a25-80be-0bfa418473fe
 
